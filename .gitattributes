@@ -1,0 +1,4 @@
+libexec/nextpnr-ecp5 filter=lfs diff=lfs merge=lfs -text
+libexec/nextpnr-ice40 filter=lfs diff=lfs merge=lfs -text
+lib/libLLVM-14.so.1 filter=lfs diff=lfs merge=lfs -text
+lib/libLLVM-15.so.1 filter=lfs diff=lfs merge=lfs -text
